@@ -11,7 +11,7 @@ Wearables capture a lot of physiology, but most stress scores are:
 
 StressSense focuses on **transparent, baseline-driven** stress detection.
 
----
+--------
 
 ## What This Project Does
 1. Parses Apple Health export data (XML) and extracts relevant metrics (HRV, HR, RHR, sleep, steps, energy)
